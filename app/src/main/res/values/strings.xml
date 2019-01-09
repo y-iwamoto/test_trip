@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTripApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_insert_trip">InsertTripActivity</string>
+    <string name="title_insert">new_trip_planning</string>
+    <string name="btn_start_date">開始日付</string>
+    <string name="btn_end_date">終了日付</string>
+    <string name="btn_insert_img">画像追加</string>
+</resources>
